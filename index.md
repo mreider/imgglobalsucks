@@ -1,7 +1,8 @@
 ---
 ---
 
-### Vienna, Austria
+*Sep 21, 2023*
+*Vienna, Austria*
 
 This week I received troubling news from a debt collector based in Switzerland. It seems I owe John Muir Medical over $7,000 for a hospital visit that IMG Global will not cover.
 
