@@ -17,6 +17,6 @@ The hospital submitted the claim to IMG Global. I assumed everything went fine f
 
 If the condition was serious in Austria, I would have gone to the ER in Austria, where healthcare is great, efficient, and free.
 
-I will update the website as I hear more news, and also include excerpts of other people's problems with IMG Global.
+I will update the website as I hear more news, and also include excerpts of other people's problems with IMG Global [like these](https://www.reddit.com/r/digitalnomad/comments/u6f62q/do_not_use_img_globals_health_insurance_its/).
 
 Stay tuned.
