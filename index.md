@@ -3,10 +3,7 @@
 
 ![img sucks](imgsucks.png)
 
-**Sep 21, 2023**
-
-**Vienna, Austria**
-
+**Background**
 
 In 2021 I went to California with my family. I bought travel insurance from IMG Global. During my trip I felt some chest pain and asked a doctor what to do. He took my blood pressure, asked some questions, and told me to go to the ER. Off I went.
 
@@ -16,6 +13,19 @@ Two days before my plan started (July 21st) I was in Austria. If I had felt ches
 
 The hospital report shows that I said I had chest pain "two weeks ago." But this was a casual estimation, and more likely stated as "about two weeks ago." An exact answer would have been eleven days, not fourteen. 
 
-I will update the website as I hear more news, and also include excerpts of other people's problems with IMG Global [like these](https://www.reddit.com/r/digitalnomad/comments/u6f62q/do_not_use_img_globals_health_insurance_its/).
+**Update: Nov 4, 2023**
 
-Stay tuned.
+After sending emails and letters to the physician who treated me, I received a statement from him that "two weeks" was likely an estimate. After sending this to IMG Global, they responded that the statement cannot be included in my file if it is not definitive. In other words, they need the physician to say exactly when my condition began, even though he cannot. He agrees that what he wrote may have been an estimate, but he can't say for sure.
+
+It makes no sense.
+
+- Q: Why would I wait to go to a hospital if the symptoms were the same?
+- A: I wouldn't have. The symptoms were more worrisome, so I went.
+  
+- Q: Why would I have waited to be in the U.S. when healthcare in Austria is free?
+- A: I wouldn't have. Obviously the symptoms started in the U.S., which was 11 days, not two weeks.
+
+Infuritating.
+
+Don't use IMG Global. They are a waste of time and money. They are stingy, distrustful, and always looking for an out.
+
