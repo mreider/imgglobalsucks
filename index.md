@@ -11,7 +11,7 @@ The hospital submitted the claim. Two years later I learned that IMG Global deni
 
 When I spoke with IMG they told me the hospital report showed that my symptoms began two weeks prior to the visit. Since my policy began a couple of days later they denied the claim as a pre-existing condition. But the dates make no sense. My chest pain began when I arrived in the USA. If it had started earlier, I would have visited the hospital in Vienna, where I live, and where healthcare is free.
 
-It was obvious that the dates in the record were estimates. Perhaps I said "about two weeks ago," or maybe he rounded up.
+The dates in the record were estimates. Perhaps I said "about two weeks ago," or maybe the doctor just rounded up.
 
 **Update: Nov 4, 2023**
 
