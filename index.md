@@ -9,9 +9,9 @@ In 2021 I bought IMG Global travel insurance for a trip to California. During my
 
 The hospital submitted the claim. Two years later I learned that IMG Global denied the claim (over $7,000) and never informed me. The hospital sold the debt to a Swiss collection agency who informed me of the situation.
 
-When I spoke with IMG they told me the hospital report showed that my symptoms began two weeks prior to the visit. Since my policy began 11 days prior - they denied the claim as a pre-existing condition. But this was impossible to me. My chest pain began when I arrived in the USA. If they had started earlier, I would have visited the hospital in Vienna, where I live, and where healthcare is free.
+When I spoke with IMG they told me the hospital report showed that my symptoms began two weeks prior to the visit. Since my policy began a couple of days later they denied the claim as a pre-existing condition. But the dates make no sense. My chest pain began when I arrived in the USA. If it had started earlier, I would have visited the hospital in Vienna, where I live, and where healthcare is free.
 
-It was obvious that the doctor's notes were an estimate. Perhaps I said "about two weeks ago," or maybe he rounded up.
+It was obvious that the dates in the record were estimates. Perhaps I said "about two weeks ago," or maybe he rounded up.
 
 **Update: Nov 4, 2023**
 
