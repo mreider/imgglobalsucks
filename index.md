@@ -24,6 +24,11 @@ Despite clear evidence contradicting their claims, my legitimate healthcare need
 
 ## Details
 
+### Buying the plan
+
+![original1](original1.png)
+![original2](original2.png)
+
 ### I asked about coverage (no response)
 
 ![coverage](coverage.png)
