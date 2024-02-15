@@ -5,6 +5,8 @@
 
 Buying travel insurance can be a difficult task. My experience with IMG Global has been one of frustration and disappointment. This website is dedicated to sharing that experience, highlighting the issues encountered.
 
+If you have questions I am reachable via mreider at gmail dot com.
+
 ## Timeline
 
 1. I paid for the Patriot Plan (June 2021) and never recieved the policy paperwork
