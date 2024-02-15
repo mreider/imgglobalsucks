@@ -28,6 +28,7 @@ Despite clear evidence contradicting their claims, my legitimate healthcare need
 
 ![original1](original1.png)
 ![original2](original2.png)
+![original3](original3.png)
 
 ### I asked about coverage (no response)
 
