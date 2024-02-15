@@ -3,7 +3,7 @@
 
 ![img sucks](imgsucks.png)
 
-Buying travel insurance can be a difficult task. My experience with IMG Global has been one of frustration and disappointment. This website is dedicated to sharing that experience, highlighting the issues encountered.
+My experience with IMG Global has been one of frustration and disappointment. This website is dedicated to sharing that experience.
 
 If you have questions I am reachable via mreider at gmail dot com.
 
@@ -20,7 +20,7 @@ If you have questions I am reachable via mreider at gmail dot com.
 9. The letter of rejection just states over, and over, that it's a pre-existing condition
 10. The medical record shows it is not
 
-Despite clear evidence contradicting their claims, my legitimate healthcare needs were dismissed under the guise of pre-existing conditions. This experience serves as a warning for anyone considering IMG Global's services. Their lack of response, absence of paperwork, and predatory claim rejections paint a clear picture: steer clear of IMG Global to avoid a similar predicament.
+Despite clear evidence contradicting their claims, my legitimate healthcare needs were dismissed under the guise of pre-existing conditions. Steer clear of IMG Global to avoid a similar predicament.
 
 ## Details
 
