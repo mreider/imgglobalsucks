@@ -3,31 +3,53 @@
 
 ![img sucks](imgsucks.png)
 
-**Background**
+# 
 
-In 2021 I bought IMG Global travel insurance for a trip to California. During my trip I felt chest pain and went to the ER.
+Buying travel insurance can be a difficult task. My experience with IMG Global has been one of frustration and disappointment. This website is dedicated to sharing that experience, highlighting the issues encountered.
 
-The hospital submitted the claim. Two years later I learned that IMG Global denied the claim (over $7,000) and never informed me. The hospital sold the debt to a Swiss collection agency who informed me of the situation.
+## Timeline
 
-When I spoke with IMG they told me the hospital report showed that my symptoms began two weeks prior to the visit. Since my policy began a couple of days later they denied the claim as a pre-existing condition. But the dates make no sense. My chest pain began when I arrived in the USA. If it had started earlier, I would have visited the hospital in Vienna, where I live, and where healthcare is free.
+1. I paid for the Patriot Plan (June 2021) and never recieved the policy paperwork
+2. I asked for the paperwork and only got an ID card. No contract sent
+3. The contract is still a mystery - it's not attached to the plan in my online account
+4. I sent an email asking if an EKG was covered. They never responded.
+5. They rejected the claim and never informed me it was rejected
+6. I found out via a debt collector almost two years later
+7. The claim was rejected for pre-existing conditions - but the medical record showed this was false
+8. They rejected my dispute, again, for the same reasons
+9. The letter of rejection just states over, and over, that it's a pre-existing condition
+10. The medical record shows it is not
 
-The dates in the record were estimates. Perhaps I said "about two weeks ago," or maybe the doctor just rounded up.
+Despite clear evidence contradicting their claims, my legitimate healthcare needs were dismissed under the guise of pre-existing conditions. This experience serves as a warning for anyone considering IMG Global's services. Their lack of response, absence of paperwork, and predatory claim rejections paint a clear picture: steer clear of IMG Global to avoid a similar predicament.
 
-**Update: Nov 4, 2023**
+## Details
 
-After sending emails and letters to the physician who treated me, I received a statement from him that "two weeks" was likely an estimate. After sending this to IMG Global, they responded that the statement cannot be included in my file if it is not definitiive. They also asked that it be put in the official report.
+### I asked about coverage (no response)
 
-**Update: Jan 25th 2024**
+![coverage](coverage.png)
 
-After months of back-and-forth with the hospital the doctor finally added the following statement to the official report.
+### The bill
 
-![img sucks](ammended.png)
+![the bill](bill.png)
 
-Now the official report reflects reality. It was not a pre-existing condition.
+### Collection notice
 
-If IMG Global pays the claim, I'll delete this website, thank them, and move on. 
+![collection](collection.png)
 
-Otherwise, I'll broadcast my story all over the Internet.
+### Medical record stating NOT a pre-existing condition
 
-- Matt Reider
+![pre-existing](pre-existing.png)
+
+### Independent review from International Medical Group / Bessie Banks
+
+![independent](independent.png)
+
+### Rejection (again)
+
+![rejection](rejection.png)
+
+
+
+
+
 
