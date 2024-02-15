@@ -30,17 +30,25 @@ Despite clear evidence contradicting their claims, my legitimate healthcare need
 
 ![the bill](bill.png)
 
+<hr>
+
 ### Collection notice
 
 ![collection](collection.png)
+
+<hr>
 
 ### Medical record stating NOT a pre-existing condition
 
 ![pre-existing](pre-existing.png)
 
+<hr>
+
 ### Independent review from International Medical Group / Bessie Banks
 
 ![independent](independent.png)
+
+<hr>
 
 ### Rejection (again)
 
