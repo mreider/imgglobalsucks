@@ -20,45 +20,53 @@ If you have questions I am reachable via mreider at gmail dot com.
 9. The letter of rejection just states over, and over, that it's a pre-existing condition
 10. The medical record shows it is not
 
-Despite clear evidence contradicting their claims, my legitimate healthcare needs were dismissed under the guise of pre-existing conditions. This experience serves as a warning for anyone considering IMG Global's services. Their lack of response, absence of paperwork, and predatory claim rejections paint a clear picture: steer clear of IMG Global to avoid a similar predicament.
+![original1](timeline.png)
+
+Despite my paying almost $500 for a month's worth of insurance, my legitiamte healthcare needs were uncovered because of so-called pre-existing conditions. Yet the dates do not line up. All of the paperwork shows this very clearly. 
+
+Criminal. 
+Opportunistic. 
+Disgusting. 
+
+Steer clear of IMG Insurance.
 
 ## Details
 
-### Buying the plan
+## Buying the plan
 
 ![original1](original1.png)
 ![original2](original2.png)
 ![original3](original3.png)
 
-### I asked about coverage (no response)
+## I asked about coverage (no response)
 
 ![coverage](coverage.png)
 
-### The bill
+## The bill
 
 ![the bill](bill.png)
 
 <hr>
 
-### Collection notice
+## Collection notice
 
 ![collection](collection.png)
 
 <hr>
 
-### Medical record stating NOT a pre-existing condition
+## Medical record stating NOT a pre-existing condition
 
 ![pre-existing](pre-existing.png)
 
 <hr>
 
-### Independent review from International Medical Group / Bessie Banks
+## Independent review from International Medical Group / Bessie Banks
 
 ![independent](independent.png)
 
 <hr>
 
-### Rejection (again)
+## Rejection (again)
 
 ![rejection](rejection.png)
 
