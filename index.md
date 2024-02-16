@@ -16,11 +16,11 @@ Here's my experience with IMG Global Insurance.
 7. The claim was rejected for pre-existing conditions - but the medical record showed this was false
 8. They rejected my dispute, again, for the same reasons
 9. The letter of rejection just states over, and over, that it's a pre-existing condition
-10. The medical record shows it is not
+10. The medical records shows it is NOT a pre-existing condition
 
 ![original1](timeline.png)
 
-Despite my paying almost $500 for a month's worth of insurance, my legitiamte healthcare needs were uncovered because of so-called pre-existing conditions. Yet the dates do not line up. All of the paperwork shows this very clearly. 
+Despite my paying almost $500 for a month's worth of insurance, my legitimate healthcare needs were not covered because of so-called pre-existing conditions. Yet the dates do not line up. All of the paperwork shows this very clearly. The symptoms began as the policy began. Not earlier.
 
 Criminal. 
 Opportunistic. 
