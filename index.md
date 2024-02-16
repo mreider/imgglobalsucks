@@ -3,7 +3,7 @@
 
 ![img sucks](imgsucks.png)
 
-Buying travel insurance can be a difficult task. My experience with IMG Global has been one of frustration and disappointment. This website is dedicated to sharing that experience, highlighting the issues encountered.
+My experience with IMG Global has been one of frustration and disappointment. This website is dedicated to sharing that experience.
 
 If you have questions I am reachable via mreider at gmail dot com.
 
