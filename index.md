@@ -3,9 +3,7 @@
 
 ![img sucks](imgsucks.png)
 
-My experience with IMG Global has been one of frustration and disappointment. This website is dedicated to sharing that experience.
-
-If you have questions I am reachable via mreider at gmail dot com.
+Here's my experience with IMG Global Insurance.
 
 ## Timeline
 
@@ -69,6 +67,8 @@ Steer clear of IMG Insurance.
 ## Rejection (again)
 
 ![rejection](rejection.png)
+
+If you have any questions I can be reached at mreider at gmail.com
 
 
 
