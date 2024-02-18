@@ -32,9 +32,7 @@ Steer clear of IMG Insurance.
 
 ## Buying the plan
 
-![original1](original1.png)
-![original2](original2.png)
-![original3](original3.png)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NO3xGh4eIIY?si=H_XIXnc5NPkXf6Xe" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ## I asked about coverage (no response)
 
