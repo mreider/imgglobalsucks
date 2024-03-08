@@ -7,17 +7,19 @@ Here's my experience with IMG Global Insurance.
 
 ## Timeline
 
-1. I paid for the Patriot Plan (June 2021) and never received the policy paperwork
-2. I visited the USA and felt chest pain
-3. I sent an email asking if an EKG was covered. They never responded.
-4. I visited John Muir Hospital upon a doctor's recommendation.
-6. I found out via a debt collector, almost two years later, they rejected the claim.
-7. The claim was rejected for pre-existing conditions - but the medical record says this is false.
-8. They rejected my dispute, again, for the same reasons.
-9. The letter of rejection just states over, and over, that it's a pre-existing condition.
-10. The medical records show it is NOT a pre-existing condition.
-11. Last week I visited my doctor who signed an official letter stating as much.
-12. Now I would like to find a local lawyer to IMG in Indianapolis to fight this.
+1. My family and I planned a trip from Austria, where we live, to the USA, where we're from.
+2. I paid for IMG Medical's Patriot Plan (June 2021) to cover medical emergencies.
+3. I never received the policy paperwork, though I asked multiple times.
+4. I visited the USA and felt chest pain.
+5. I sent an email asking if an EKG was covered. They never responded.
+6. I visited John Muir Hospital upon a doctor's recommendation.
+7. I found out via a debt collector, almost two years later, they rejected the claim.
+8. The claim was rejected for pre-existing conditions - but the medical record says this is false.
+9. They rejected my dispute, again, for the same reasons.
+10. The letter of rejection just states over, and over, that it's a pre-existing condition.
+11. The medical records show it is NOT a pre-existing condition.
+12. Last week I visited my doctor who signed an official letter stating as much.
+13. Now I would like to find a local lawyer, in Indianapolis, where IMG is based, to fight this.
 
 ## Details
 
